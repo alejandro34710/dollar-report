@@ -1,0 +1,19 @@
+app:
+  timezone: "America/Bogota"
+  run_hour: 9
+  run_minute: 0
+
+api:
+  url: "https://open.er-api.com/v6/latest"
+  base: "USD"
+  quote: "COP"
+
+output:
+  csv_path: "data/output/dollar_daily.csv"
+  xlsx_path: "data/output/dollar_daily.xlsx"
+  write_excel: true
+  ensure_headers: true
+
+logging:
+  file: "logs/daily.log"
+  level: "INFO"

@@ -178,3 +178,6 @@
 2025-12-23 14:32:32,222 | INFO | Tasa USD->COP: 3827.791528
 2025-12-23 14:32:32,371 | INFO | Guardado en data/output/dollar_daily.csv
 2025-12-23 14:32:32,371 | INFO | Excel actualizado en data/output/dollar_daily.xlsx
+2025-12-24 14:30:40,355 | INFO | Tasa USD->COP: 3800.801423
+2025-12-24 14:30:40,477 | INFO | Guardado en data/output/dollar_daily.csv
+2025-12-24 14:30:40,478 | INFO | Excel actualizado en data/output/dollar_daily.xlsx

@@ -406,3 +406,6 @@
 2026-03-09 15:03:30,543 | INFO | Tasa USD->COP: 3785.988155
 2026-03-09 15:03:30,705 | INFO | Guardado en data/output/dollar_daily.csv
 2026-03-09 15:03:30,705 | INFO | Excel actualizado en data/output/dollar_daily.xlsx
+2026-03-10 15:02:52,968 | INFO | Tasa USD->COP: 3777.919779
+2026-03-10 15:02:53,091 | INFO | Guardado en data/output/dollar_daily.csv
+2026-03-10 15:02:53,091 | INFO | Excel actualizado en data/output/dollar_daily.xlsx
